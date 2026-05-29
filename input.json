@@ -1,0 +1,9 @@
+{
+  "hubspot_api_key": "na2-1589-e5db-4756-b882-539cfb9f84f5",
+  "action": "fetch_new_leads",
+  "fetch_new_leads_since_days": 7,
+  "include_contact_properties": [],
+  "max_leads_per_fetch": 100,
+  "lead_status_filter": "",
+  "include_engagement_data": false
+}
